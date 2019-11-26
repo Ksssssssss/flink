@@ -1,0 +1,7 @@
+server:
+  address: 8088
+
+kafka:
+  consumer:
+    thread.num: 6
+    thread.queue.size: 100
