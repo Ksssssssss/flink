@@ -5,3 +5,7 @@ kafka:
   consumer:
     thread.num: 6
     thread.queue.size: 100
+hdfs:
+  url: hdfs://10.2.21.67:9000/
+  path: report/nginx.log
+  userName: root
