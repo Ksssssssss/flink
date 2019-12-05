@@ -9,5 +9,5 @@
     value.deserializer=org.apache.kafka.common.serialization.StringDeserializer
     session.timeout.ms=30000
     max.poll.interval.ms=2000
-## 流程
+## 大致流程
 ![image](https://github.com/Ksssssssss/my-flink/blob/master/src/main/resources/%E6%B5%81%E7%A8%8B.png)
