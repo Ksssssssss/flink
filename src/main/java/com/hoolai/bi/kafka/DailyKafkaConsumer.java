@@ -19,7 +19,7 @@ import java.util.concurrent.*;
  * @author: Ksssss(chenlin @ hoolai.com)
  * @time: 2019-11-23 10:56
  */
-@Component
+//@Component
 public class DailyKafkaConsumer {
     private static final Logger LOGGER = LoggerFactory.getLogger("consumer");
     private final String topic = "game-report";
